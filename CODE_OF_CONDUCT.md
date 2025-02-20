@@ -1,0 +1,1 @@
+Its a CODE_OF_CONDUCT file
